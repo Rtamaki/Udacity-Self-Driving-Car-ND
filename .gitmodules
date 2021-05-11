@@ -1,3 +1,12 @@
 [submodule "Path-Planning"]
 	path = Path-Planning
 	url = https://github.com/Rtamaki/Path-Planning.git
+[submodule "Udacity-ND-Capstone"]
+	path = Udacity-ND-Capstone
+	url = https://github.com/Rtamaki/Udacity-ND-Capstone.git
+[submodule "MPC_Controller"]
+	path = MPC_Controller
+	url = https://github.com/Rtamaki/MPC_Controller.git
+[submodule "PID-Controller"]
+	path = PID-Controller
+	url = https://github.com/Rtamaki/PID-Controller.git
