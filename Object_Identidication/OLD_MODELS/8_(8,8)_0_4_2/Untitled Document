@@ -1,0 +1,7 @@
+4 pixels per block
+8 hist_bins
+(8,8) spatial_bin
+
+Higly dependent on how many pixels in each step of the sliding window are done. If many pixels per step, then precision is much worse but speed is much better.
+ The opposite occurs if we use few pixels per step.
+
